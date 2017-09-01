@@ -36,8 +36,8 @@ public class arraylistMultidimentional {
                 System.out.println(k + " ");
             }
         
-        System.out.println("");
-        y++;
+            System.out.println("");
+            y++;
         }
 
     }
