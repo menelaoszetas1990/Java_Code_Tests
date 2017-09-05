@@ -57,6 +57,6 @@ public class SimpleChatClientA {
     }
 
     public static void main (String[] args) {
-        new SimpleChatClientA();
+        new SimpleChatClientA().go();
     }
 }
